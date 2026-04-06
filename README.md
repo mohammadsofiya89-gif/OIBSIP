@@ -90,7 +90,7 @@ A basic login and registration system.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/OIBSIP.git
+ git clone https://github.com/mohammadsofiya89-gif/OIBSIP.git
    ```
 
 2. Open any task folder.
