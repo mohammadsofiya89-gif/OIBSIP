@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Welcome {{ user }} 🎉</h2>
+<p>This is a secured page</p>
+
+<a href="/logout">Logout</a>
+
+</body>
+</html>
